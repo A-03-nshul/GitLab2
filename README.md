@@ -1,2 +1,2 @@
-k GitLab2
+GitLab2
 Modification number 1.
