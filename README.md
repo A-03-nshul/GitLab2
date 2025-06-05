@@ -5,4 +5,4 @@
 
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
-| Col1, Row1 | Col2, Row2 | Col3, Row3 |
+| Col1, Row1 | Col2, Row1 | Col3, Row1 |
